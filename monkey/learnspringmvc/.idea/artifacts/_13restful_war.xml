@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_13restful:war">
+    <output-path>$PROJECT_DIR$/_13restful/target</output-path>
+    <root id="archive" name="13restful.war">
+      <element id="artifact" artifact-name="_13restful:war exploded" />
+    </root>
+  </artifact>
+</component>

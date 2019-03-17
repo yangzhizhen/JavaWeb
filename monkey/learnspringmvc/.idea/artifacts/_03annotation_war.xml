@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_03annotation:war">
+    <output-path>$PROJECT_DIR$/_03annotation/target</output-path>
+    <root id="archive" name="03annotation.war">
+      <element id="artifact" artifact-name="_03annotation:war exploded" />
+    </root>
+  </artifact>
+</component>

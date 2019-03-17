@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_01firstspringmvc" />
+        <module name="_02urlpattern" />
+        <module name="_03annotation" />
+        <module name="_04requestparams" />
+        <module name="_05returnvalue" />
+        <module name="_06redirect" />
+        <module name="_07exception" />
+        <module name="_08dataconverter" />
+        <module name="_09validation" />
+        <module name="_10upload" />
+        <module name="_11interceptor" />
+        <module name="_12crud" />
+        <module name="_13restful" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_01firstspringmvc" target="1.8" />
+      <module name="_02urlpattern" target="1.8" />
+      <module name="_03annotation" target="1.8" />
+      <module name="_04requestparams" target="1.8" />
+      <module name="_05returnvalue" target="1.8" />
+      <module name="_06redirect" target="1.8" />
+      <module name="_07exception" target="1.8" />
+      <module name="_08dataconverter" target="1.8" />
+      <module name="_09validation" target="1.8" />
+      <module name="_10upload" target="1.8" />
+      <module name="_11interceptor" target="1.8" />
+      <module name="_12crud" target="1.8" />
+      <module name="_13restful" target="1.8" />
+      <module name="learnspringmvc" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="test1" target="1.8" />
+      <module name="test111" target="1.8" />
+      <module name="teststse" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

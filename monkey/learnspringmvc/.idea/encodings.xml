@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_09validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_09validation/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_09validation/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_10upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_10upload/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_10upload/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_11interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_11interceptor/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_11interceptor/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/jsp/user_add.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/jsp/user_list.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_12crud/src/main/webapp/jsp/user_update.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/resources/springmvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/css/bootstrap.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/html/user_add.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/html/user_list.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/html/user_update.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/js/bootstrap.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_13restful/src/main/webapp/js/jquery-3.3.1.min.js" charset="GBK" />
+  </component>
+</project>

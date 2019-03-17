@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/aop
+    http://www.springframework.org/schema/aop/spring-aop.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!--默认方式，需要保证该bean中有无参的构造方法-->
+    <bean id="studentService" init-method="init" destroy-method="destroy" class="com.monkey1024.service.impl.StudentServiceImpl"/>
+    <!--<bean id="studentService" class="com.monkey1024.service.impl.StudentServiceImpl"/>-->
+    <!--<bean id="studentService" scope="prototype" class="com.monkey1024.service.impl.StudentServiceImpl"/>-->
+
+
+    <!--bean后处理器-->
+    <!--<bean id="myBeanPostProcessor" class="com.monkey1024.proxy.MyBeanPostProcessor"/>-->
+
+    <!--实例工厂-->
+    <!--<bean id="myFactory" class="com.monkey1024.factory.MyBeanFactory"/>-->
+    <!--<bean id="studentService" factory-bean="myFactory" factory-method="createStudentService"/>-->
+
+    <!--静态工厂-->
+    <!--<bean id="studentService" class="com.monkey1024.factory.MyBeanStaticFactory" factory-method="createStudentService"/>-->
+
+
+</beans>

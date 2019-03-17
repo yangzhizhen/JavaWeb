@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/_00_pattern" />
+    <file type="web" url="file://$PROJECT_DIR$/_01_firstspring" />
+    <file type="web" url="file://$PROJECT_DIR$/_02_bean" />
+    <file type="web" url="file://$PROJECT_DIR$/_02bean" />
+    <file type="web" url="file://$PROJECT_DIR$/_03_DI" />
+    <file type="web" url="file://$PROJECT_DIR$/_04_DI_annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/_05_problem" />
+    <file type="web" url="file://$PROJECT_DIR$/_06_aop_xml" />
+    <file type="web" url="file://$PROJECT_DIR$/_07_aop_annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/_08_web" />
+    <file type="web" url="file://$PROJECT_DIR$/_09_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/_10_transaction_annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/_11_ssm_crud" />
+    <file type="web" url="file://$PROJECT_DIR$/_12_generator" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/_02bean/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

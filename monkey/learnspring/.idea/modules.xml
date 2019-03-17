@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_00_pattern/_00_pattern.iml" filepath="$PROJECT_DIR$/_00_pattern/_00_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_firstspring/_01_firstspring.iml" filepath="$PROJECT_DIR$/_01_firstspring/_01_firstspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_bean/_02_bean.iml" filepath="$PROJECT_DIR$/_02_bean/_02_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_DI/_03_DI.iml" filepath="$PROJECT_DIR$/_03_DI/_03_DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_DI_annotation/_04_DI_annotation.iml" filepath="$PROJECT_DIR$/_04_DI_annotation/_04_DI_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_problem/_05_problem.iml" filepath="$PROJECT_DIR$/_05_problem/_05_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_aop_xml/_06_aop_xml.iml" filepath="$PROJECT_DIR$/_06_aop_xml/_06_aop_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_aop_annotation/_07_aop_annotation.iml" filepath="$PROJECT_DIR$/_07_aop_annotation/_07_aop_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_web/_08_web.iml" filepath="$PROJECT_DIR$/_08_web/_08_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_ssm/_09_ssm.iml" filepath="$PROJECT_DIR$/_09_ssm/_09_ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_transaction_annotation/_10_transaction_annotation.iml" filepath="$PROJECT_DIR$/_10_transaction_annotation/_10_transaction_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_ssm_crud/_11_ssm_crud.iml" filepath="$PROJECT_DIR$/_11_ssm_crud/_11_ssm_crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12_generator/_12_generator.iml" filepath="$PROJECT_DIR$/_12_generator/_12_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnspring.iml" filepath="$PROJECT_DIR$/learnspring.iml" />
+    </modules>
+  </component>
+</project>

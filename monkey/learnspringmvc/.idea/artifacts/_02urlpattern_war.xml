@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_02urlpattern:war">
+    <output-path>$PROJECT_DIR$/_02urlpattern/target</output-path>
+    <root id="archive" name="02urlpattern.war">
+      <element id="artifact" artifact-name="_02urlpattern:war exploded" />
+    </root>
+  </artifact>
+</component>

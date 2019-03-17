@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_12crud:war">
+    <output-path>$PROJECT_DIR$/_12crud/target</output-path>
+    <root id="archive" name="12crud.war">
+      <element id="artifact" artifact-name="_12crud:war exploded" />
+    </root>
+  </artifact>
+</component>

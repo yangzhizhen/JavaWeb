@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+
+    <!--注解驱动-->
+    <mvc:annotation-driven/>
+
+    <!-- 注册组件扫描器 -->
+    <context:component-scan base-package="com.monkey1024.*"/>
+
+    <!--注册自定义异常处理器-->
+    <bean class="com.monkey1024.myexception.MyExceptionResolver"/>
+
+    <!--异常处理-->
+    <!--<bean class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">-->
+        <!--<property name="exceptionMappings">-->
+            <!--<props>-->
+                <!--&lt;!&ndash;这里可以添加多个自定义异常&ndash;&gt;-->
+                <!--<prop key="com.monkey1024.myexception.MyException">error/myerror</prop>-->
+            <!--</props>-->
+        <!--</property>-->
+
+        <!--&lt;!&ndash;默认的异常跳转页面&ndash;&gt;-->
+        <!--<property name="defaultErrorView" value="error/error"/>-->
+
+        <!--&lt;!&ndash;异常信息，在jsp页面中的el表达式可以直接获取value中的值&ndash;&gt;-->
+        <!--<property name="exceptionAttribute" value="ex"/>-->
+    <!--</bean>-->
+
+    <!--外部视图解析器-->
+    <bean class="org.springframework.web.servlet.view.BeanNameViewResolver"/>
+
+    <!--定义外部资源view对象-->
+    <bean id="monkey1024" class="org.springframework.web.servlet.view.RedirectView">
+        <property name="url" value="http://www.monkey1024.com/"/>
+    </bean>
+
+    <!-- 内部视图解析器 -->
+    <bean
+            class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/jsp/" />
+        <property name="suffix" value=".jsp" />
+    </bean>
+
+
+</beans>

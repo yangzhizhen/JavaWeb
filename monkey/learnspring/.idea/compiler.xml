@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_00_pattern" />
+        <module name="_01_firstspring" />
+        <module name="_02_bean" />
+        <module name="_03_DI" />
+        <module name="_04_DI_annotation" />
+        <module name="_05_problem" />
+        <module name="_06_aop_xml" />
+        <module name="_07_aop_annotation" />
+        <module name="_08_web" />
+        <module name="_09_ssm" />
+        <module name="_10_transaction_annotation" />
+        <module name="_11_ssm_crud" />
+        <module name="_12_generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_00_pattern" target="1.8" />
+      <module name="_01_firstspring" target="1.8" />
+      <module name="_02_bean" target="1.8" />
+      <module name="_02bean" target="1.8" />
+      <module name="_03_DI" target="1.8" />
+      <module name="_04_DI_annotation" target="1.8" />
+      <module name="_05_problem" target="1.8" />
+      <module name="_06_aop_xml" target="1.8" />
+      <module name="_07_aop_annotation" target="1.8" />
+      <module name="_08_web" target="1.8" />
+      <module name="_09_ssm" target="1.8" />
+      <module name="_10_transaction_annotation" target="1.8" />
+      <module name="_11_ssm_crud" target="1.8" />
+      <module name="_12_generator" target="1.8" />
+      <module name="learnspring" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

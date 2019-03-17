@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_00_pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_01_firstspring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_02_bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_03_DI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_04_DI_annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_05_problem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_06_aop_xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_07_aop_annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_08_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_09_ssm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_10_transaction_annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_11_ssm_crud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_12_generator" charset="UTF-8" />
+  </component>
+</project>
